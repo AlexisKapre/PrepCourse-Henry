@@ -1,2 +1,3 @@
 # PrepCourse-Henry
-Repositorio de prueba modulo 2 PrepCourse de Henry
+Alexis Kaprelian
+Este proyecto es una prueba
